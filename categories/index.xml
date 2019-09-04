@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Sky Travel Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2019 08:46:10 +0000</lastBuildDate>
     
 	<atom:link href="https://travellingsky.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Europe</title>
+      <link>https://travellingsky.github.io/categories/europe/</link>
+      <pubDate>Mon, 02 Sep 2019 08:46:10 +0000</pubDate>
+      
+      <guid>https://travellingsky.github.io/categories/europe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Caribbean Islands</title>
