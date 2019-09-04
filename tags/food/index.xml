@@ -6,17 +6,26 @@
     <description>Recent content in Food on Sky Travel Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://travellingsky.github.io/tags/food/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Charming Evening Field</title>
-      <link>https://travellingsky.github.io/sample-post/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>Punta Cana – Dominican Republic</title>
+      <link>https://travellingsky.github.io/punta-cana-domican-republic/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://travellingsky.github.io/sample-post/</guid>
+      <guid>https://travellingsky.github.io/punta-cana-domican-republic/</guid>
+      <description>Punta Cana in Dominican Republic who would have guessed it would be so scenic.</description>
+    </item>
+    
+    <item>
+      <title>Punta Cana – Dominican Republic</title>
+      <link>https://travellingsky.github.io/sample-featured-post/</link>
+      <pubDate>Tue, 14 May 2019 08:46:10 +0000</pubDate>
+      
+      <guid>https://travellingsky.github.io/sample-featured-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

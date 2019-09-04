@@ -3,18 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://travellingsky.github.io/about/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://travellingsky.github.io/categories/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+    <loc>https://travellingsky.github.io/categories/caribbean-islands/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://travellingsky.github.io/sample-post/</loc>
+    <loc>https://travellingsky.github.io/categories/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://travellingsky.github.io/tags/food/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://travellingsky.github.io/tags/photos/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://travellingsky.github.io/punta-cana-domican-republic/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://travellingsky.github.io/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://travellingsky.github.io/tags/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://travellingsky.github.io/about/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
@@ -24,55 +54,13 @@
   </url>
   
   <url>
-    <loc>https://travellingsky.github.io/tags/finance/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://travellingsky.github.io/categories/food/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://travellingsky.github.io/tags/food/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://travellingsky.github.io/sample-featured-post/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://travellingsky.github.io/tags/photos/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-05-14T08:46:10+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://travellingsky.github.io/search/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://travellingsky.github.io/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://travellingsky.github.io/tags/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://travellingsky.github.io/categories/valuable-idea/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
