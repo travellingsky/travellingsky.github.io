@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Finance on Sky Travel Blogger</title>
-    <link>https://www.skytravelblogger.com/tags/finance/</link>
+    <link>https://travellingsky.github.io/tags/finance/</link>
     <description>Recent content in Finance on Sky Travel Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="https://www.skytravelblogger.com/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://travellingsky.github.io/tags/finance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://www.skytravelblogger.com/sample-featured-post/</link>
+      <link>https://travellingsky.github.io/sample-featured-post/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://www.skytravelblogger.com/sample-featured-post/</guid>
+      <guid>https://travellingsky.github.io/sample-featured-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sky Travel Blogger</title>
-    <link>https://www.skytravelblogger.com/categories/</link>
+    <link>https://travellingsky.github.io/categories/</link>
     <description>Recent content in Categories on Sky Travel Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="https://www.skytravelblogger.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://travellingsky.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Food</title>
-      <link>https://www.skytravelblogger.com/categories/food/</link>
+      <link>https://travellingsky.github.io/categories/food/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://www.skytravelblogger.com/categories/food/</guid>
+      <guid>https://travellingsky.github.io/categories/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Valuable Idea</title>
-      <link>https://www.skytravelblogger.com/categories/valuable-idea/</link>
+      <link>https://travellingsky.github.io/categories/valuable-idea/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://www.skytravelblogger.com/categories/valuable-idea/</guid>
+      <guid>https://travellingsky.github.io/categories/valuable-idea/</guid>
       <description></description>
     </item>
     
