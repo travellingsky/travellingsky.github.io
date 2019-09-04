@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Travelling Sky</title>
-    <link>https://travellingsky.github.io/</link>
-    <description>Recent content on Travelling Sky</description>
+    <title>Sky Travel Blogger</title>
+    <link>https://www.skytravelblogger.com/</link>
+    <description>Recent content on Sky Travel Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Aug 2019 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="https://travellingsky.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.skytravelblogger.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>20 Best London Travel Tips</title>
-      <link>https://travellingsky.github.io/blog/20-best-london-travel-tips/</link>
-      <pubDate>Mon, 19 Aug 2019 04:00:00 +0000</pubDate>
+      <title>Charming Evening Field</title>
+      <link>https://www.skytravelblogger.com/sample-post/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://travellingsky.github.io/blog/20-best-london-travel-tips/</guid>
-      <description>Top 20 Things To See In London
- Buckingham Palace London Eye Millenium Bridge Tower of London  Put some more content here and here.
-Talk about best areas to stay.
-Maybe link to some hotels.
-Show a basic itinerary screen shot.
-We could add a sign up form where they have to enter an email address, and then we can email them a sample itinerary.</description>
+      <guid>https://www.skytravelblogger.com/sample-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Organize Your Life With 10 Simple rule</title>
+      <link>https://www.skytravelblogger.com/sample-featured-post/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://www.skytravelblogger.com/sample-featured-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
   </channel>
