@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sky Travel Blogger</title>
-    <link>https://travellingsky.github.io/categories/</link>
+    <link>https://www.skytravelblogger.com/categories/</link>
     <description>Recent content in Categories on Sky Travel Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Sep 2019 08:46:10 +0000</lastBuildDate>
     
-	<atom:link href="https://travellingsky.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.skytravelblogger.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Europe</title>
-      <link>https://travellingsky.github.io/categories/europe/</link>
+      <link>https://www.skytravelblogger.com/categories/europe/</link>
       <pubDate>Mon, 02 Sep 2019 08:46:10 +0000</pubDate>
       
-      <guid>https://travellingsky.github.io/categories/europe/</guid>
+      <guid>https://www.skytravelblogger.com/categories/europe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Caribbean Islands</title>
-      <link>https://travellingsky.github.io/categories/caribbean-islands/</link>
+      <link>https://www.skytravelblogger.com/categories/caribbean-islands/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://travellingsky.github.io/categories/caribbean-islands/</guid>
+      <guid>https://www.skytravelblogger.com/categories/caribbean-islands/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beach</title>
-      <link>https://travellingsky.github.io/categories/beach/</link>
+      <link>https://www.skytravelblogger.com/categories/beach/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://travellingsky.github.io/categories/beach/</guid>
+      <guid>https://www.skytravelblogger.com/categories/beach/</guid>
       <description></description>
     </item>
     
