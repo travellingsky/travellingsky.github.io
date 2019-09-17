@@ -46,8 +46,11 @@
 
   <!-- Main Stylesheet -->
   
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
   <link rel="stylesheet" href="https://www.skytravelblogger.com/css/style.min.css" integrity="" media="screen">
   <link rel="stylesheet" href="/assets/css/travel.css">
+
+
   <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
 
   <!--Favicon-->
@@ -536,8 +539,43 @@ amzn_assoc_linkid = "5d3b1a5626f3ac61319318a7ab081f71";
         
       </div>
       <div class="col-lg-4">
-  <div class="widget search-box">
-   
+  <div class="widget">
+  </div>
+  <div class="widget pin-box">
+          
+
+
+
+
+
+
+        <div class="panelShare">
+            
+                <a href="https://www.pinterest.com/pin/create/button/" data-pin-do="buttonPin" data-pin-custom="true" data-pin-media="/uploads/2-day-travel-guide-cambridge.png" data-pin-description="Consider taking a day trip to explore the English countryside when traveling to London England.  Cambridge is a short train ride away and offers beautiful attractions to visit that differ from the usual London attractions. Venture off the beaten path and go punting along the backs or enjoy a tour around the gorgeous Cambridge University while enjoying the traditional English culture. #daytrip #cambridge #england #uk #travel #familytravel #culturetravel">
+                    <span class="button primary" id="btnShare">Pin This For Later</span>
+                </a>
+            
+                    
+            <div class="accordion" id="pinView">
+                <div class="row">
+                    
+                        
+                        <div class="col-12 post-thumb"><img class="post-thumb" data-src="/uploads/2-day-travel-guide-cambridge.png" data-pin-description="Consider taking a day trip to explore the English countryside when traveling to London England.  Cambridge is a short train ride away and offers beautiful attractions to visit that differ from the usual London attractions. Venture off the beaten path and go punting along the backs or enjoy a tour around the gorgeous Cambridge University while enjoying the traditional English culture. #daytrip #cambridge #england #uk #travel #familytravel #culturetravel"></div>
+                        
+                        <div class="col-12 post-thumb"><img class="post-thumb" data-src="/uploads/ultimate-guide-to-cambridge-england.png" data-pin-description="Our ultimate guide to Cambridge, England guides you on a little known attraction which is just is a short train ride away from London, and offers beautiful attractions to visit that differ from the usual attractions. Enjoy punting along the backs or visit the nearby Cotswold villages while enjoying the traditional English culture. #daytrip #cambridge #england #uk #travel #familytravel #culturetravel #travelguide"></div>
+                        
+                        <div class="col-12 post-thumb"><img class="post-thumb" data-src="/uploads/top-20-things-to-do-in-cambridge-england.png" data-pin-description="Top 20 things to do in Cambridge, England. Enjoy punting along the backs or visit the nearby Cotswold villages while enjoying the traditional English culture. Visit the world renowned Cambridge University with an amazing walking tour. Check out our list of the top 20 things to do in Cambridge.  #daytrip #cambridge #england #uk #travel #familytravel #culturetravel #travelguide"></div>
+                        
+                    
+                </div>
+            </div>
+
+        </div>
+
+
+
+
+
   </div>
   <div class="widget">
     <h6 class="mb-4">LATEST TRAVELS</h6>
@@ -712,6 +750,9 @@ amzn_assoc_linkid = "5d3b1a5626f3ac61319318a7ab081f71";
 
 <script src="https://www.skytravelblogger.com/js/script.min.js"></script>
 
+
+<script async defer data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
+
 <!-- google analitycs -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -723,5 +764,34 @@ amzn_assoc_linkid = "5d3b1a5626f3ac61319318a7ab081f71";
 </script>
 
 
-<script src="//www.anrdoezrs.net/am/9165033/include/allCj/sid/5224213/impressions/page/am.js"></script></body>
+<script src="//www.anrdoezrs.net/am/9165033/include/allCj/sid/5224213/impressions/page/am.js"></script>
+
+
+
+<script>
+  (function($) {
+
+    var allPanels = $('#pinView').hide();
+      
+    $('.panelShare').hover(function() {
+      allPanels.slideDown();
+      return false;
+    });
+
+    
+    var imgDefer = $('img');
+    $.each(imgDefer, function(i, img){
+      datasrc = $(img).attr('data-src');
+      if (datasrc) {
+        $(img).attr('src', datasrc)
+      }
+
+      desc = $(img).attr('data-pin-description');
+      if (!desc){
+        $(img).attr('nopin', 'nopin');
+      }
+    });
+
+  })(jQuery);
+</script></body>
 </html>

@@ -41,8 +41,11 @@
 
   <!-- Main Stylesheet -->
   
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
   <link rel="stylesheet" href="https://www.skytravelblogger.com/css/style.min.css" integrity="" media="screen">
   <link rel="stylesheet" href="/assets/css/travel.css">
+
+
   <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
 
   <!--Favicon-->
@@ -277,6 +280,9 @@
 
 <script src="https://www.skytravelblogger.com/js/script.min.js"></script>
 
+
+<script async defer data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
+
 <!-- google analitycs -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -288,5 +294,34 @@
 </script>
 
 
-<script src="//www.anrdoezrs.net/am/9165033/include/allCj/sid/5224213/impressions/page/am.js"></script></body>
+<script src="//www.anrdoezrs.net/am/9165033/include/allCj/sid/5224213/impressions/page/am.js"></script>
+
+
+
+<script>
+  (function($) {
+
+    var allPanels = $('#pinView').hide();
+      
+    $('.panelShare').hover(function() {
+      allPanels.slideDown();
+      return false;
+    });
+
+    
+    var imgDefer = $('img');
+    $.each(imgDefer, function(i, img){
+      datasrc = $(img).attr('data-src');
+      if (datasrc) {
+        $(img).attr('src', datasrc)
+      }
+
+      desc = $(img).attr('data-pin-description');
+      if (!desc){
+        $(img).attr('nopin', 'nopin');
+      }
+    });
+
+  })(jQuery);
+</script></body>
 </html>
