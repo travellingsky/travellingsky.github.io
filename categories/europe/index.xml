@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Europe on Sky Travel Blogger</title>
-    <link>https://www.skytravelblogger.com/categories/europe/</link>
+    <link>https://localhost:1313/categories/europe/</link>
     <description>Recent content in Europe on Sky Travel Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Sep 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://www.skytravelblogger.com/categories/europe/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://localhost:1313/categories/europe/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>5 Day - London Itinerary</title>
-      <link>https://www.skytravelblogger.com/5-day-london-itinerary/</link>
+      <link>https://localhost:1313/5-day-london-itinerary/</link>
       <pubDate>Mon, 16 Sep 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://www.skytravelblogger.com/5-day-london-itinerary/</guid>
+      <guid>https://localhost:1313/5-day-london-itinerary/</guid>
       <description>We stayed in the Westminster District so this itinerary is routed from there, but feel free to adjust from wherever you are staying from
 We highly recommend you buy these tickets beforehand for these Attractions :
  Buckingham Palace Tour Kensington Palace Tour Westminster Abbey London Eye Tower of London Madam Tussaud&amp;rsquo;s St Paul’s Cathedral Book your afternoon Tea experience And which Day tour you decide to do via Viator  Flight deals  up to 50% off to Europe DestinationsGetting around london is one thing but with luggage is another.</description>
@@ -24,10 +24,10 @@ We highly recommend you buy these tickets beforehand for these Attractions :
     
     <item>
       <title>20 Best Things To Do in Cambridge, England</title>
-      <link>https://www.skytravelblogger.com/20-best-things-to-do-in-cambridge-england/</link>
+      <link>https://localhost:1313/20-best-things-to-do-in-cambridge-england/</link>
       <pubDate>Mon, 02 Sep 2019 08:46:10 +0000</pubDate>
       
-      <guid>https://www.skytravelblogger.com/20-best-things-to-do-in-cambridge-england/</guid>
+      <guid>https://localhost:1313/20-best-things-to-do-in-cambridge-england/</guid>
       <description>Not knowing anything besides Cambridge being a College town, we were in total love with the place. Cambridge is such a beautiful historic town, with a Royal feel to it. Its almost 2 hours away by car from Heathrow Airport, it’s very compact and cozy with many little shops and boutiques. We strolled through the streets and visited so many little stores.</description>
     </item>
     
